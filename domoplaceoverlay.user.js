@@ -7,7 +7,7 @@
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @updateURL    https://github.com/FlashSkyNews/domoplaceOverlay/raw/main/domoplaceoverlay.user.js
-// @downloadURL  https://github.com/mp14O4/domoplaceOverlay/raw/main/domoplaceoverlay.user.js
+// @downloadURL  https://github.com/FlashSkyNews/domoplaceOverlay/raw/main/domoplaceoverlay.user.js
 // ==/UserScript==
 const url = "https://raw.githubusercontent.com/FlashSkyNews/domoPlace/main/overlay.png"
 if (window.top !== window.self) {
