@@ -6,8 +6,8 @@
 // @author       mp1404
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://github.com/FlashSkyNews/domoplaceOverlay/raw/main/domoplaceoverlay.user.js
-// @downloadURL  https://github.com/FlashSkyNews/domoplaceOverlay/raw/main/domoplaceoverlay.user.js
+// @updateURL    https://github.com/FlashSkyNews/domoplaceOverlay/raw/main/domoplace-overlay.user.js
+// @downloadURL  https://github.com/FlashSkyNews/domoplaceOverlay/raw/main/domoplace-overlay.user.js
 // ==/UserScript==
 let url = "https://raw.githubusercontent.com/FlashSkyNews/domoPlace/main/overlay.png"
 if (window.top !== window.self) {
